@@ -1,0 +1,6 @@
+C:\Lab 2\obj\Debug\Lab 2.njsprojAssemblyReference.cache
+C:\Lab 2\obj\Debug\Lab 2.njsproj.CoreCompileInputs.cache
+C:\Lab 2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\vargh\Videos\Lab 2\Lab 2\obj\Debug\Lab 2.njsprojAssemblyReference.cache
+C:\Users\vargh\Videos\Lab 2\Lab 2\obj\Debug\Lab 2.njsproj.CoreCompileInputs.cache
+C:\Users\vargh\Videos\Lab 2\Lab 2\bin\Microsoft.NodejsTools.WebRole.dll
